@@ -33,6 +33,6 @@ L'aboutissement visuel de ce projet est une carte dynamique (Folium) qui superpo
 ├── carto/                   # fichiers (shp)
 ├── results/          # Cartes HTML et graphiques exportés
 └── README.md           # Documentation
-
+```
 ---
 projet réalisé en 2026
