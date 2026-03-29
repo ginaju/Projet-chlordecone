@@ -31,7 +31,7 @@ L'aboutissement visuel de ce projet est une carte dynamique (Folium) qui superpo
 ├── BaseCLD2026/               # Données brutes (Prélèvements)
 ├── Documentation/                # Dictionnaire des données
 ├── carto/                   # fichiers (shp)
-├── results/          # Cartes HTML et graphiques exportés
+├── results/          # Cartes HTML ; utilisation de https://htmlpreview.github.io/?
 └── README.md           # Documentation
 ```
 ---
